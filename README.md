@@ -2,6 +2,7 @@ Data from .json can be found in the data.sql file
 
 Prerequisites
 Ensure Node.Js is installed
+Make sure MySql phpmyadmin is opening
 
 BackEnd Set up
 Bash cd backend
