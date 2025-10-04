@@ -4,8 +4,8 @@ Prerequisites
 Ensure Node.Js is installed
 
 BackEnd Set up
-bash cd backend
-nodemon index //to start the backend server
+Bash cd backend
+Bash nodemon index //to start the backend server
 
 FrontEnd Set up
 Bash cd frontend
